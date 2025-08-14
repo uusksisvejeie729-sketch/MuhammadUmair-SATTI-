@@ -1,2 +1,2 @@
 # MuhammadUmair-SATTI-
-AI based project
+AI chatbot
